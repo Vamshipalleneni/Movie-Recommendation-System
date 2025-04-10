@@ -48,5 +48,5 @@ Measures the cosine of the angle between two vectors in a multi-dimensional spac
 
 ### 🔹 Movie Recommendation Output
 
-![Recommendation Output](![Screenshot 2025-03-13 134701](https://github.com/user-attachments/assets/a763db5e-4594-4a2d-a09b-f7b226db1f72)
+![Recommendation Output](![Screenshot 2025-03-13 134701](https://github.com/user-attachments/assets/a763db5e-4594-4a2d-a09b-f7b226db1f72))
 
