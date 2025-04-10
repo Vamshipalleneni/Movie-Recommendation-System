@@ -1,4 +1,4 @@
-# 🎬 Movie Recommender System
+# 🎬 Movie Recommendation System
 
 This project is a **Content-Based Movie Recommendation System** that suggests movies based on the similarity of their content. It leverages **Natural Language Processing (NLP)** and **machine learning techniques** to analyze movie metadata and generate personalized recommendations. The system displays both **movie titles and posters**, using data fetched from the **TMDb API**.
 
@@ -38,8 +38,15 @@ Converts a collection of text documents to a matrix of token counts. This allows
 ### 3. **Cosine Similarity**
 Measures the cosine of the angle between two vectors in a multi-dimensional space. In this case, it computes the similarity between movies based on their content.
 
-## 🌐 How to Run the App
+## 🌐 How to Run the App 
 
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/Vamshipalleneni/Movie-Recommendation-System.git
+
+## 🖼️ Screenshots
+
+### 🔹 Movie Recommendation Output
+
+![Recommendation Output](![Screenshot 2025-03-13 134701](https://github.com/user-attachments/assets/a763db5e-4594-4a2d-a09b-f7b226db1f72))
+
